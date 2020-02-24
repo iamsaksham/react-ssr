@@ -1,0 +1,23 @@
+.page-wrapper {
+  display: flex;
+  flex: 1;
+  margin: 20px;
+}
+
+.detail-wrapper {
+  display: flex;
+}
+
+.image-wrapper {
+  min-width: 30%;
+}
+
+.detail-text {
+  margin: 0 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.detail-item {
+  margin: 10px;
+}
